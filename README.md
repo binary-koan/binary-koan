@@ -2,9 +2,9 @@
 
 I'm a full-stack developer and technical manager who also does some design and martial arts on the side.
 
-📝 I occasionally write posts on [dev.to](https://dev.to/binarykoan) like [Yet another post about SolidJS vs React](https://dev.to/binarykoan/yet-another-post-about-solidjs-vs-react-3i1a)
+📝 I occasionally write meandering posts on [dev.to](https://dev.to/binarykoan) like [Functional immutable game state](https://dev.to/binarykoan/functional-immutable-game-state-2fal) and [Yet another post about SolidJS vs React](https://dev.to/binarykoan/yet-another-post-about-solidjs-vs-react-3i1a).
 
-## I most love doing ...
+## I most enjoy doing ...
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" alt="solidjs" width="40" height="40"/></a>
